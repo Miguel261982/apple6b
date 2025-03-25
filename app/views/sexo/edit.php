@@ -17,7 +17,7 @@
     <input type="submit" value="Actualizar">
 </form>
 
-<a href="index.php">Volver al listado</a>
+<a href="index.php">Vuelve al listado</a>
 
 </body>
 </html>
