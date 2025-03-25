@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-    <h1>Listado de los  Sexos</h1>
+    <h1>Listado</h1>
     <a href="/apple6b/app/views/sexo/create.php"><button>Agregar Sexo</button></a>
 
     <table>
